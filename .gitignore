@@ -1,0 +1,13 @@
+# Auto-generated pricing cache (downloaded on first run)
+data/model_prices.json
+data/pricing_meta.json
+
+# User's private bill data
+data/bill.jsonl
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
